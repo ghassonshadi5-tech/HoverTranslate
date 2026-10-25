@@ -1,0 +1,21 @@
+# Runtime
+PySide6
+pynput
+comtypes
+pywin32
+httpx
+tenacity
+loguru
+pytesseract
+Pillow
+arabic-reshaper
+python-bidi
+
+# Dev / Quality
+pytest
+pytest-qt
+pytest-asyncio
+pytest-benchmark
+ruff
+black
+mypy

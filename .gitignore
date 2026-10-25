@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+
+# Virtual environments
+.venv/
+.venv-*/
+venv/
+
+# Test and quality caches
+.pytest_cache/
+.benchmarks/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# PyInstaller build output
+build/
+dist/
+build_test/
+dist_test/
+
+# Logs
+*.log
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+hovertranslate/config/secrets.py
+
+# Local test images
+test_ocr_current.png
+test_ocr_image.png
+
+# IDE and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,1 @@
+# HOVERTRANSLATE skeleton file
